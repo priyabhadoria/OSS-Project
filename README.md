@@ -33,8 +33,8 @@ An interactive script that collects user input and generates a personalized open
 ## How to Run the Scripts
 1. **Clone the repository:**
    ```bash
-   git clone [your-repo-url]
-   cd [repo-name]
+   git clone [[your-repo-url]](https://github.com/priyabhadoria/OSS-Project)
+   cd OSS-Project
    ```
 
 2. **Make the scripts executable:**
